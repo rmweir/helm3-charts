@@ -16,5 +16,3 @@ maintainers:
   - name: antoineco
 sources:
   - https://github.com/triggermesh/aws-event-sources
-annotations:
-  catalog.cattle.io/rancher-version: "< 2.6.3"
